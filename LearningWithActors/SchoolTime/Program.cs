@@ -1,0 +1,3 @@
+﻿using SchoolTime;
+
+StudentProfessorTest.Main();
