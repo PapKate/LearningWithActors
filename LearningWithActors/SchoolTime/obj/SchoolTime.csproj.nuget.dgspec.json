@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\Assignment-01\\SchoolTime\\SchoolTime\\SchoolTime.csproj": {}
+    "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\LearningWithActors\\SchoolTime\\SchoolTime.csproj": {}
   },
   "projects": {
-    "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\Assignment-01\\SchoolTime\\SchoolTime\\SchoolTime.csproj": {
+    "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\LearningWithActors\\SchoolTime\\SchoolTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\Assignment-01\\SchoolTime\\SchoolTime\\SchoolTime.csproj",
+        "projectUniqueName": "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\LearningWithActors\\SchoolTime\\SchoolTime.csproj",
         "projectName": "SchoolTime",
-        "projectPath": "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\Assignment-01\\SchoolTime\\SchoolTime\\SchoolTime.csproj",
+        "projectPath": "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\LearningWithActors\\SchoolTime\\SchoolTime.csproj",
         "packagesPath": "C:\\Users\\kater\\.nuget\\packages\\",
-        "outputPath": "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\Assignment-01\\SchoolTime\\SchoolTime\\obj\\",
+        "outputPath": "D:\\KaizenGaming\\Trainings\\C#\\LearningWithActors\\LearningWithActors\\SchoolTime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

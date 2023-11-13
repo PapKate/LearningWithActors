@@ -1,0 +1,14 @@
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.exe
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.deps.json
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.runtimeconfig.json
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.dll
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.pdb
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.AssemblyInfoInputs.cache
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.AssemblyInfo.cs
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.csproj.CoreCompileInputs.cache
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.dll
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\refint\SchoolTime.dll
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.pdb
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.genruntimeconfig.cache
+D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\ref\SchoolTime.dll
