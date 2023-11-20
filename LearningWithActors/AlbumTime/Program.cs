@@ -1,0 +1,3 @@
+﻿using AlbumTime;
+
+PhotoBookTest.TestingTime();
