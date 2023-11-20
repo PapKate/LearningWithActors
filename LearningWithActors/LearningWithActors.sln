@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment-01", "Assignment
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolTime", "SchoolTime\SchoolTime.csproj", "{4ABB057F-A498-4A18-88BA-10D2676C1291}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment-02", "Assignment-02", "{66B399ED-4F6C-44F3-974D-E4F0F1737D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumTime", "AlbumTime\AlbumTime.csproj", "{A129463A-3739-43CF-ACDA-182D147B5769}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{4ABB057F-A498-4A18-88BA-10D2676C1291}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ABB057F-A498-4A18-88BA-10D2676C1291}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ABB057F-A498-4A18-88BA-10D2676C1291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A129463A-3739-43CF-ACDA-182D147B5769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A129463A-3739-43CF-ACDA-182D147B5769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A129463A-3739-43CF-ACDA-182D147B5769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A129463A-3739-43CF-ACDA-182D147B5769}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4ABB057F-A498-4A18-88BA-10D2676C1291} = {1192EDF7-E414-4F72-A34A-42AA99538AB1}
+		{A129463A-3739-43CF-ACDA-182D147B5769} = {66B399ED-4F6C-44F3-974D-E4F0F1737D7D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B10D913-9B5E-47F9-A6C7-B1C16C64654A}

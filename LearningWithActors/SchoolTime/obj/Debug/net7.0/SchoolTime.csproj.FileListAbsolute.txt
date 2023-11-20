@@ -12,3 +12,17 @@ D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\ob
 D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.pdb
 D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.genruntimeconfig.cache
 D:\KaizenGaming\Trainings\C#\LearningWithActors\LearningWithActors\SchoolTime\obj\Debug\net7.0\ref\SchoolTime.dll
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.exe
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.deps.json
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.runtimeconfig.json
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.dll
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\bin\Debug\net7.0\SchoolTime.pdb
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.AssemblyInfoInputs.cache
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.AssemblyInfo.cs
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.csproj.CoreCompileInputs.cache
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.dll
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\obj\Debug\net7.0\refint\SchoolTime.dll
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.pdb
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\obj\Debug\net7.0\SchoolTime.genruntimeconfig.cache
+C:\Users\kater\Desktop\Training\LearningWithActors\SchoolTime\obj\Debug\net7.0\ref\SchoolTime.dll

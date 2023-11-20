@@ -1,0 +1,14 @@
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\bin\Debug\net7.0\AlbumTime.exe
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\bin\Debug\net7.0\AlbumTime.deps.json
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\bin\Debug\net7.0\AlbumTime.runtimeconfig.json
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\bin\Debug\net7.0\AlbumTime.dll
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\bin\Debug\net7.0\AlbumTime.pdb
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\obj\Debug\net7.0\AlbumTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\obj\Debug\net7.0\AlbumTime.AssemblyInfoInputs.cache
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\obj\Debug\net7.0\AlbumTime.AssemblyInfo.cs
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\obj\Debug\net7.0\AlbumTime.csproj.CoreCompileInputs.cache
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\obj\Debug\net7.0\AlbumTime.dll
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\obj\Debug\net7.0\refint\AlbumTime.dll
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\obj\Debug\net7.0\AlbumTime.pdb
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\obj\Debug\net7.0\AlbumTime.genruntimeconfig.cache
+C:\Users\kater\Desktop\Training\LearningWithActors\AlbumTime\obj\Debug\net7.0\ref\AlbumTime.dll
